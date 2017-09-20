@@ -1,24 +1,21 @@
-# My first cool idea {#slug-one}
+# Genius Gambler {the nightmare of vegas}
 
 #### Keywords
 
-yaba, daba, do
+Genius Gambler brings machine learning to the world of basketball betting.
 
 ## A beginning.
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+When it comes to gambling in basketball, Las Vegas expects people to be emotional. They expect people to make unwise decisions based on emotion, ignorance, and arrogance. Gambling's structure and reputation has kept (most) smart people away. "Smart" people don't gamble because it is looked down upon and/or they recognize the risk-to-reward ratio is uninspiring and their chances of winning overtime is low. Vegas loves offering bets to an uninformed and emotional public. Genius Gambler brings smart people, or rather smart algorithms, to the world of basketball betting. 
 
 ## A middle.
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+Genius Gambler implements the latest machine learning algorithms used at Google, Facebook, and Uber to isolate the most promising bets concerning NBA games and players.  Genius Gambler does not bet on NCAA games (if the players can't make money than neither will we). Genius Gambler searches all bets offered by mainstream Las Vegas casinos for miscalculated lines, arbitrage opportunities, and promising parlays. Genius Gambler relies on separate algorithms for separate tasks and a combination of these algorithms for other tasks. For example, the "player algorithm" analyzes individual player performance (e.g., points scored in each game). The "single game algorithm" analyzes team performance on a given night (e.g., winning a game). The "bet algorithm" isolates promising bets.  Each of these algorithms feed a variety of models used to make gambling decisions.  
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
+Genius Gambler relies on a wide variety of publicly available and privately sold data. Genius Gambler factors in all types of standard player and team statistics, including advanced statistics (which are themselves complicated models). We use a variety of team-centric data, such as team schedules, stadium success, and amount of travel time between games. Additionally, Genius Gambler analyzes the internet for a variety of helpful insights, such as breaking news, twitter feeds, and online predictions by reputable sources. 
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
 
 ## An end.
 
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+Last year, Genius Gambler started the season with $100,000 in capital and ended the season with $160,000 (60% return on investment). We outperformed most hedge funds by a significant margin. Most of our losses came towards the end of the season as our model failed to recognize the general "wear and tear" on older players. Additionally, we learned that the NBA finals is too volatile to model with any great accuracy. As Genius Gambler is built with a machine learning framework, our algorithms will improve from last year and we expect even greater returns this year and into the future!
+
