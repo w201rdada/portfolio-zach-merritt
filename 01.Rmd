@@ -6,7 +6,7 @@ basketball, gambling, NBA, Las Vegas
 
 ## Why bring machine learning to Las Vegas?
 
-When it comes to gambling in basketball, Las Vegas expects people to be emotional. They love offering bets to an uninformed and irrational public. Vegas expect people to make unwise decisions based on emotion, ignorance, and arrogance. Gambling's structure and reputation has kept (most) smart people away. "Smart" people don't gamble because it is looked down upon and/or they recognize the risk-to-reward ratio is uninspiring and their chances of winning overtime is low. Genius Gambler brings smart people, or rather smart algorithms and models, to the world of basketball betting. 
+When it comes to gambling in basketball, Las Vegas expects people to be emotional. They expect people to make unwise decisions based on emotion, ignorance, and arrogance. Their entire business model revolves around offering bets to an uninformed and irrational public. Gambling's structure and reputation has kept (most) smart people away. "Smart" people don't gamble because it is looked down upon and/or they recognize the risk-to-reward ratio is uninspiring and their chances of winning overtime is low. Genius Gambler brings smart people, or rather smart algorithms and models, to the world of basketball betting. 
 
 ## How does the model work?
 
