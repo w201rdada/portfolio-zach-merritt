@@ -1,3 +1,4 @@
+
 # Human Investements {investing based on human satisfaction}
 
 #### Keywords
@@ -13,6 +14,7 @@ The evaluation of a company stock price is often rooted solely in a company’s 
 To gain a greater understanding of employee satisfaction’s effect on a company’s success, we are collaborating with Glassdoor.com to ask: 
 1.	Do employee review scores on Glassdoor.com serve as a predictor for a company’s stock price?
 2.	If so, which review scores are the most important predictors?
+
 We will conduct this study for the time-period of 2011 through 2017 and will focus solely on insurance companies listed on the S&P 500 to concentrate on a single industry. We will analyze Glassdoor-provided employee review data alongside openly available stock price data. We will implement advanced linear regression and Bayesian networks to answer these two statistical questions. Our null hypothesis is that the employee review scores on Glassdoor will serve as a predictor for a company’s stock price. We believe that the eventual financial failures or successes of a company are broadcasted through employee satisfaction before those failures or successes come to the surface. In essence, our null hypothesis is that employees are unknowingly spreading insider information on Glassdoor via their employee reviews.
 
 ## The Internal and External Impact
