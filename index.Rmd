@@ -27,13 +27,16 @@ Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland 
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-### Abstract of my first cool idea
+### Abstract of my first cool idea: Genius Gambler
 
-Pop-up occupy labore, pug tofu nisi franzen YOLO tilde tumblr deep v nulla  aliqua.  Sapiente stumptown et lo-fi art party.  Eu  snackwave glossier, poutine crucifix tattooed labore thundercats hexagon tempor brunch single-origin coffee synth four loko.  Velit  beard ex etsy migas, tempor hashtag.  Live-edge fap yr food truck, heirloom snackwave tempor laborum green juice man bun selvage sriracha gastropub.  Before they sold out incididunt godard cupidatat  exercitation street art health goth ullamco, flannel dolore kombucha bespoke.  Pok pok tilde mixtape, magna swag iceland tote bag gentrify dolor  delectus.
+When it comes to gambling in basketball, Las Vegas casinos expect people to be emotional and make unwise decisions based on emotion, ignorance, and arrogance. Gambling's structure and reputation has kept (most) smart people away, but Genius Gambler brings smart people, or rather smart algorithms and models, to the world of basketball betting. By using advanced machine learning in basketball betting, last year, Genius Gambler saw a 60% return on investment, outperforming most hedge funds by a significant margin. Our algorithms will only improve from last year and we expect even greater returns this year and into the future!
 
-### Abstract of my second cool idea
+### Abstract of my second cool idea: Human Investments
 
-Vero dolor  franzen letterpress.  Taxidermy pork belly messenger bag, deserunt  aliqua irure  photo booth neutra banh mi fanny pack.  Butcher fam heirloom marfa.  Tilde reprehenderit  snackwave tempor.  Qui  pop-up kitsch dolor.  Crucifix consectetur culpa  lumbersexual salvia exercitation small batch.  Pop-up duis  id  semiotics before they sold out kombucha raclette, twee selvage pitchfork.
+Human Investments is an investment fund that focuses on people, both customers and employees, as a guide to forecasting a company’s success. For our next research endeavor, we will focus on employees and how their level of satisfaction foreshadows company success. We have two questions: 
+1) Do employee review scores on Glassdoor.com serve as a predictor for a company’s stock price? 
+2) If so, which review scores are the most important predictors?
+We believe that the eventual financial failures or successes of a company are broadcasted through employee satisfaction before those failures or successes come to the surface.
   
 ### Abstract of my third cool idea
 
