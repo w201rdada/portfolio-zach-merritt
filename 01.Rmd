@@ -1,3 +1,4 @@
+
 # Genius Gambler {the nightmare of vegas}
 
 #### Keywords
@@ -13,6 +14,7 @@ When it comes to gambling in basketball, casinos in Las Vegas expect people to b
 Genius Gambler implements the latest machine learning algorithms used at Google, Facebook, and Uber to isolate the most promising (i.e., underpriced) bets concerning NBA games and players.
 
 The steps of the model are: 
+
 1. *Gather the data*:
 Genius Gambler relies on a wide variety of publicly available and privately sold data. We gather all types of standard player and team statistics, including advanced statistics (which are themselves complicated models). Genius Gambler also uses a variety of team-centric data, such as team schedules, stadium success, and the amount of travel time between games. Additionally, Genius Gambler analyzes the internet for a variety of helpful insights, such as breaking news, twitter feeds, and online predictions by reputable sources. 
 
