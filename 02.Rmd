@@ -1,4 +1,5 @@
 
+
 # Human Investements {investing based on human satisfaction}
 
 #### Keywords
@@ -12,7 +13,9 @@ The evaluation of a company’s stock price is often rooted solely in a company�
 ## Modelling Employee Reviews and Stock Prices
 
 To gain a greater understanding of employee satisfaction’s effect on a company’s success, we are collaborating with Glassdoor.com to ask: 
+
 1.	Do employee review scores on Glassdoor.com serve as a predictor for a company’s stock price?
+
 2.	If so, which review scores are the most important predictors?
 
 We will conduct this study for the time-period of 2011 through 2017 and will focus solely on insurance companies listed on the S&P 500 to concentrate on a single industry. We will analyze Glassdoor-provided employee review data alongside openly available stock price data and Human Investment proprietary economic and financial data. This study presents many challenges, two of which are a) the issue of selection bias (do only disgruntled employees review?); and b) proving causality (do increasingly successful companies create happy employees or is it the other way around?). For our analysis, we will rely on our already created stock pricing models and develop advanced linear regression models, Bayesian networks, and neural networks to isolate and quantify the effect of employee satisfaction on a company’s success.  
