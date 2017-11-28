@@ -12,7 +12,7 @@ library(magrittr)
 ```
 
 
-# Welcome!
+# Welcome! {-}
 
 <!-- You can include images saved within your repo... -->
 ```{r hello-world,echo=FALSE,fig.cap='Gambling & Investing in Humans',fig.align='center',out.width='50%'}
@@ -39,7 +39,7 @@ Human Investments is an investment fund that focuses on people, both customers a
 We believe that the eventual financial failures or successes of a company are broadcasted through employee satisfaction before those failures or successes come to the surface.
 
 
-## About the author
+## About the author {-}
 
 Zach Merritt is a full-time consultant at Navigant and current UC Berkeley Grad Student in Information and Data Science. He has passion for sports and investing and has an interest in applying advanced machine learning techniques in non-standard industries (e.g., sports betting). He is currently exploring his passions in the class: Research Design & Applications for Data Analysis. 
 

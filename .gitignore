@@ -1,8 +1,9 @@
 #ignore everything
 *
-#except these files
+#except these files 
 !.gitignore
 !.gitattributes
+!Dockerfile
 !README.md
 !index.Rmd
 !01.Rmd
