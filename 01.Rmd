@@ -1,15 +1,15 @@
 
 # Genius Gambler {the nightmare of vegas}
 
-#### Keywords
+#### Keywords {-}
 
 basketball, gambling, NBA, Las Vegas 
 
-## Why bring machine learning to Las Vegas?
+## Why bring machine learning to Las Vegas? {-}
 
 When it comes to gambling in basketball, casinos in Las Vegas expect people to be emotional. They expect people to make unwise decisions based on emotion, ignorance, and arrogance. Their entire business model revolves around offering bets to an uninformed and irrational public. Gambling's structure and reputation has kept (most) smart people away. "Smart" people don't gamble because they recognize the risk-to-reward ratio is uninspiring and their chances of winning over time are low. Genius Gambler brings smart people, or rather smart algorithms and models, to the world of basketball betting. 
 
-## How does the model work?
+## How does the model work? {-}
 
 Genius Gambler implements the latest machine learning algorithms used at Google, Facebook, and Uber to isolate the most promising (i.e., underpriced) bets concerning NBA games and players.
 
@@ -24,6 +24,6 @@ This "Success Model" uses machine learning techniques to predict the success (or
 3. *Identify bets and gamble*:
 Genius Gambler uses the results of the Success Model discussed above to place a value on all bets offered by mainstream Las Vegas casinos. In this final stage, we identify underpriced bets, combinations of underpriced bets (parlays), and arbitrage opportunities. Our model then determines, given our level of capital, the appropriate amount to gamble on a given underpriced bet.
 
-## How did we do?
+## How did we do? {-}
 
 Last year, Genius Gambler started the season with $100,000 in capital and ended the season with just over $160,000 (60% return on investment). We outperformed most hedge funds by a significant margin. In total, we made 1,423 bets at an average price of $86.29 per bet. Our earnings were slightly skewed towards large earnings on low odds bets, as 60% of our profit came from 25% of our bets. Most of our losses came towards the end of the season as our model failed to recognize the general "wear and tear" on older players. Additionally, we learned that games in the NBA Finals are too volatile to model with any great accuracy. As Genius Gambler is built with a machine learning framework, our algorithms will improve from last year and we expect even greater returns this year and into the future!
