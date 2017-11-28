@@ -6,11 +6,11 @@
 
 investing, human resources, Glassdoor
 
-## A Match Made in Heaven
+{-}## A Match Made in Heaven
 
 The evaluation of a company’s stock price is often rooted solely in a company’s financial success. How many things did they sell last year and how many things will they sell next year? However, behind that success and profits (or lack thereof) is an often-overlooked catalyst…people! Human Investments is an investment fund that focuses on people, both customers and employees, as a guide to evaluating and forecasting a company’s success. For our next research endeavor, we will focus on employees and how their level of satisfaction foreshadows company success. Glassdoor.com allows employees anonymously write reviews about their companies (making the site a data gold mine for Human Investment's strategy). The site captures employee review scores in culture, work/life balance, senior management, benefits, and career opportunities. This data is immensely valuable to companies to gauge their employee’s satisfaction. However, Human Investments believes there is just as great of value for investing. 
 
-## Modelling Employee Reviews and Stock Prices
+{-}## Modelling Employee Reviews and Stock Prices
 
 To gain a greater understanding of employee satisfaction’s effect on a company’s success, we are collaborating with Glassdoor.com to ask: 
 
@@ -22,6 +22,6 @@ We will conduct this study for the time-period of 2011 through 2017 and will foc
 
 Our hypothesis is that employee review scores serve as a predictor for a company’s stock price. We believe that the eventual financial failures or successes of a company are broadcasted through employee satisfaction before those failures or successes come to the surface. In the US, a knowledgeable employee is forbidden from sharing certain company secrets (insider trading). Our hypothesis is that, in aggregate, employee reviews reveal valuable company secrets and are, in a way, insider traded information which can be leveraged to make intelligent investments.
 
-## The Internal and External Impact
+{-}## The Internal and External Impact
 
 Pending on the findings, we will integrate the study’s results into our investment model and would expect to see added returns to our portfolio. Furthermore, we pledge to make our findings public. Human Investments believes in the importance of people and we hope to convince others that treating your employees well is important. Isolating the effect of employee satisfaction will have its many challenges, but if we can overcome these challenges we believe the results could have a beneficial impact on both our fund’s return and employees in the US. If the results of this study find that employee satisfaction causes company success, companies will hopefully be more incentivized to treat their employees better and Human Investments can profit along the way! 
