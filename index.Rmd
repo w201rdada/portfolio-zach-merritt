@@ -27,11 +27,11 @@ Let's try something different!
 knitr::include_url('https://drive.google.com/file/d/1C8PoISJ_QBtL_qU691XJLtmFAF-AstUe/view?usp=sharing')
 ```
 
-### Abstract of my first cool idea: Genius Gambler
+### Abstract: Genius Gambler {-}
 
 When it comes to gambling in basketball, Las Vegas casinos expect people to be emotional and make unwise decisions based on emotion, ignorance, and arrogance. Gambling's structure and reputation has kept (most) smart people away, but Genius Gambler brings smart people, or rather smart algorithms and models, to the world of basketball betting. By using advanced machine learning in basketball betting, last year, Genius Gambler saw a 60% return on investment, outperforming most hedge funds by a significant margin. Our algorithms will only improve from last year and we expect even greater returns this year and into the future!
 
-### Abstract of my second cool idea: Human Investments
+### Abstract: Human Investments {-}
 
 Human Investments is an investment fund that focuses on people, both customers and employees, as a guide to forecasting a company’s success. For our next research endeavor, we will focus on employees and how their level of satisfaction foreshadows company success. We have two questions: 
 1) Do employee review scores on Glassdoor.com serve as a predictor for a company’s stock price? 
