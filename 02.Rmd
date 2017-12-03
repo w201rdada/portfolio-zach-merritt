@@ -1,5 +1,5 @@
 
-# Human Investements {investing based on human satisfaction}
+# Human Investments {investing based on human satisfaction}
 
 #### Keywords
 
@@ -7,16 +7,21 @@ investing, human resources, Glassdoor
 
 ## A Match Made in Heaven
 
-The evaluation of a company stock price is often rooted solely in a company’s financial success. Human Investments is an investment fund that focuses on people, both customers and employees, as a guide to evaluating company success and investing. Glassdoor.com is a website that allows any visitor to learn from current employees of a company in an anonymous setting--making Glassdoor a data gold mine and an incredible resource for Human Investment's strategy. Glassdoor captures employee review scores (from 1 to 5) in culture, work/life balance, senior management, benefits, and career opportunities. This data is immensely valuable to companies to gauge employee satisfaction. However, Human Investments believes there is just as great of value for investing. 
+The valuation of a company stock price is often rooted solely in a company’s financial success. However, short-term financial success is not a guarantee of long-term financial success - it is possible to invest smarter by considering human metrics as well as financial ones. Human Investments is an investment fund that focuses on people, both customers and employees, as a guide to evaluating company success and making better investment decisions. By using untapped public data about employee behaviors and perspectives, Human Investments believes can predict employee engagement and more accurately value company stock. 
 
 ## Modelling Employee Reviews and Stock Prices
 
-To gain a greater understanding of employee satisfaction’s effect on a company’s success, we are collaborating with Glassdoor.com to ask: 
+Glassdoor.com is a website that allows any visitor to learn from current and past employees of a company in an anonymous setting - making Glassdoor a data gold mine and an incredible resource for Human Investment's data collection. Glassdoor captures employee review scores (from 1 to 5) in the categories of culture, work/life balance, senior management, benefits, and career opportunities. This data is immensely valuable to companies to gauge their own employee satisfaction, but can be useful to potential investors as well.
+
+To gain a greater understanding of the effect of employee satisfaction on a company’s success, we are collaborating with Glassdoor.com to ask: 
 1.	Do employee review scores on Glassdoor.com serve as a predictor for a company’s stock price?
 2.	If so, which review scores are the most important predictors?
 
-We will conduct this study for the time-period of 2011 through 2017 and will focus solely on insurance companies listed on the S&P 500 to concentrate on a single industry. We will analyze Glassdoor-provided employee review data alongside openly available stock price data. We will implement advanced linear regression and Bayesian networks to answer these two statistical questions. Our null hypothesis is that the employee review scores on Glassdoor will serve as a predictor for a company’s stock price. We believe that the eventual financial failures or successes of a company are broadcasted through employee satisfaction before those failures or successes come to the surface. In essence, our null hypothesis is that employees are unknowingly spreading insider information on Glassdoor via their employee reviews.
+We will conduct this study for the time-period of 2011 through 2017 and will focus solely on insurance companies listed on the S&P 500 in case this relationship varies by industry. We will analyze Glassdoor-provided employee review data alongside openly available stock price data. We will implement advanced linear regression and Bayesian networks to answer these two statistical questions. Our null hypothesis is that the employee review scores on Glassdoor will serve as a predictor for a company’s stock price. We believe that the eventual financial failures or successes of a company will be evident in employee satisfaction metrics before those failures or successes come to the surface. In essence, our null hypothesis is that employees are unknowingly spreading insider information on Glassdoor via their employee reviews.
 
 ## The Internal and External Impact
 
-The knowledge of the answer to these two questions will have direct financial impact on our investment fund. We will implement the results of this study into our investment models and, pending on the results of the study, would expect to see added returns. The real challenge and limitation of this study will be proving causality. Do increasingly successful companies create happy employees? Or is it the other way around? Additionally, isolating the effect of employee satisfaction will be difficult. There are certainly impacts on a company that happen separate from employee satisfaction (e.g., legislation). If we can overcome these challenges, we believe the results could have a beneficial impact on both our fund and employees in the US. If the results of this study find that employee satisfaction causes company success, companies may be more incentivized to treat their employees better.
+Answering these two questions will have direct financial impact on our investment fund. We will implement the results of this study into our investment models and, pending on the results of the study, would expect to see added returns.
+The real challenge and limitation of this study will be proving causality. Do increasingly successful companies create happy employees? Or is it the other way around? Additionally, isolating the effect of employee satisfaction will be difficult. There are certainly impacts on a company that happen separate from employee satisfaction (e.g., legislation).
+
+If we can overcome these challenges, we believe the results will have a beneficial impact on both our fund and more generally on employees in the US. If the results of this study find that employee satisfaction causes future company success, companies may be more incentivized to treat their employees better.
